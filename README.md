@@ -12,7 +12,7 @@ This project will creating HTML by combining modern technologies such as generat
 1. Post graduate of Hotel Management: **PIHMS**
 2. Bachelor of Data Science: **University of Auckland**
 
-### Hobbies
+### Interests
 * Snowborading & skiing :snowboarder:
 * Painting :art:
 * Video games :tv:
