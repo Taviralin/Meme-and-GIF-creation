@@ -1,4 +1,4 @@
-# Stats-220
+# First Blood, Meme, GIF Creation!
 Hi visitors, welcome to my Github page!
 This repo for STATS220 contain 5 projects, I will show my work and learning outcome here :grinning:
 
