@@ -1,6 +1,6 @@
 # First Blood, Meme, GIF Creation!
 Hi visitors, welcome to my Github page!
-This repo for STATS220 contain 5 projects, I will show my work and learning outcome here :grinning:
+I will show my work and learning outcome here :grinning:
 
 ## Project 1
 This project will creating HTML by combining modern technologies such as generating a meme and animation. You can ckeck it here :dash: [My page](https://taviralin.github.io/Stats-220/)
