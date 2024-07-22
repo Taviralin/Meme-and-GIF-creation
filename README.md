@@ -10,7 +10,7 @@ This project will creating HTML by combining modern technologies such as generat
 
 ### Education history :woman_student:
 1. Post graduate of Hotel Management: **PIHMS**
-2. Bachelor of Data Science: **University of Auckland**
+2. Bachelor of CS and STATS: **University of Auckland**
 
 ### Interests
 * Snowborading & skiing :snowboarder:
