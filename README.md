@@ -1,4 +1,4 @@
-# First Blood, Meme, GIF Creation!
+## First Blood, Meme, GIF Creation!
 Hi visitors, welcome to my Github page!
 I will show my work and learning outcome here :grinning:
 
